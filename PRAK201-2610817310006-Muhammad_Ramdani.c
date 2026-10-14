@@ -20,7 +20,6 @@ int main() {
     printf("No. HP               : ");
     fgets(No_Telp, sizeof(No_Telp), stdin);
     
-    printf("Output\n");
     printf("Nama                 : %s", Nama);
     printf("NIM                  : %s", NIM);
     printf("Kelas Paralel        : %s", Kelas_Paralel);
